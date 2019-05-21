@@ -9,6 +9,6 @@
   "author": "Jacek Marek",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.217.1"
+    "aws-sdk": "^2.459.0"
   }
 }
